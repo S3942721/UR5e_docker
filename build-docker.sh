@@ -1,1 +1,1 @@
-docker build -t #container name .
+docker build -t ur5e_dev .
