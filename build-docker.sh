@@ -1,1 +1,1 @@
-docker build -t ur5e_dev .
+docker build -t m2s .
